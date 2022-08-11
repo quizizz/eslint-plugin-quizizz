@@ -23,7 +23,7 @@ Add `eslint-quizizz` to the plugins section of your `.eslintrc` configuration fi
 ```json
 {
     "plugins": [
-        "eslint-quizizz"
+        "quizizz"
     ]
 }
 ```
