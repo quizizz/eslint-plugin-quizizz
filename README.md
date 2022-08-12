@@ -18,7 +18,7 @@ npm install eslint-plugin-quizizz --save-dev
 
 ## Usage
 
-Add `eslint-quizizz` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `quizizz` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "eslint-quizizz/rule-name": 2
+        "quizizz/rule-name": 2
     }
 }
 ```
