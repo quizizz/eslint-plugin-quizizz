@@ -1,4 +1,4 @@
-# eslint-plugin-eslint-quizizz
+# eslint-plugin-quizizz
 
 cool
 
