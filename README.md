@@ -1,6 +1,6 @@
 # eslint-plugin-quizizz
 
-cool
+ESLint plugin for Quizizz projects
 
 ## Installation
 
