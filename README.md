@@ -13,7 +13,7 @@ npm i eslint --save-dev
 Next, install `eslint-plugin-quizizz`:
 
 ```sh
-npm install eslint-plugin-quizizz --save-dev
+npm i https://github.com/quizizz/eslint-plugin-quizizz --save-dev
 ```
 
 ## Usage
