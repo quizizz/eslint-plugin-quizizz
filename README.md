@@ -34,7 +34,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "quizizz/rule-name": 2
+        "quizizz/rule-name": 'warn' || 'error'
     }
 }
 ```
