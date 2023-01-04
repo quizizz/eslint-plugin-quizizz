@@ -41,6 +41,11 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-* Fill in provided rules here
+* no-i18n-template-literals
+* no-i18n-vars
+* no-nuxt-link
+* no-router
 
+## Planned
 
+* no-window-navigation
