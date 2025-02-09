@@ -1,4 +1,4 @@
-# eslint-plugin-quizizz
+# eslint-plugin-quizizz (deprecated)
 
 ESLint plugin for Quizizz projects
 
